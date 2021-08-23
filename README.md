@@ -6,7 +6,6 @@
      Email - justin.case1061@gmail.com
     
     
-    https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white
      
 
 <!---
