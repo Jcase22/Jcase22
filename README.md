@@ -4,13 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects you want to collaborate on!
 - 📫 How to reach me:
      Email - justin.case1061@gmail.com
-     
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-     
-
+    
      
 
 <!---
