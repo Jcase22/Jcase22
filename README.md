@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jcase22
 - 👀 I’m interested in front and back-end development
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any projects you want to collaborate on!
 - 📫 How to reach me:
      Email - justin.case1061@gmail.com
